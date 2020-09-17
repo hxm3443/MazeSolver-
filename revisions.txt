@@ -1,0 +1,76 @@
+commit 77bc9cf2176cc775043d55e1dbff0cbe87a410d5
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Nov 3 17:23:05 2018 -0400
+
+    Modified queueADT.c to fix a typo
+
+commit abd7bfa7403850b0ff2556b47a70846da87afbf4
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Nov 3 17:18:57 2018 -0400
+
+    Implemented all the functions in queueADT.c and made a header file.
+    
+    Fixed all memory leaks and added relevant comments.
+
+commit 16864560c1496bcb11578e0492e4f87f44e6fca2
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Nov 3 12:11:45 2018 -0400
+
+    Fixed issues in readMaze() and prettyPrinted the boundary lines
+
+commit 9f7b59c65c3fb66419833997ee5ba20753913927
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Thu Nov 1 14:56:09 2018 -0400
+
+    Implemented backtracking and bfs
+    
+    Tested and debbuged my code. Changed my maze array to a dynamically
+    allocated one. Checked for leaks.
+
+commit 7e0ec7e366a5cdb454cb7a78f88f2cd0febab5f4
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Wed Oct 31 23:09:32 2018 -0400
+
+    Fixed my queue implementation and dfs function to check if the maze is
+    solvable
+
+commit 5c2f35e4648cd6e443d7850f2c7bb83ca1341004
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sun Oct 28 19:10:59 2018 -0400
+
+    Implemented queueADT and made a header file for it!
+
+commit 3bc519bf9acc2b5ba91c7f40d7626f87f8d49edf
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sun Oct 28 16:09:16 2018 -0400
+
+    Made a lot of changes and debugged code to fix my displayMaze() function
+
+commit 3f2ef8bbcc95a74ac9316abc9233a70dca5e766d
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Oct 27 21:04:19 2018 -0400
+
+    Modified my main() function and added if-else conditions.
+
+commit 7c71dabf42452a40471ec6da1332cf5b560da60d
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Oct 27 19:14:50 2018 -0400
+
+    Implemented displayMaze() function.
+
+commit bf93e5709e357716c1cf868fc44b227f965e78ab
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Oct 27 18:11:38 2018 -0400
+
+    Implemented readMaze() for both conditions (file and stdin)
+    
+    Also, made changes in the main() function and added two 2-D integer
+    matrices.
+
+commit 325008c0e3b451b8fa43b1e3b9abdadcb494af59
+Author: Himani  Munshi <hxm3443@cs.rit.edu>
+Date:   Sat Oct 27 16:52:07 2018 -0400
+
+    Started Project2
+    
+    stubbed functions and made switch case in the main() function
